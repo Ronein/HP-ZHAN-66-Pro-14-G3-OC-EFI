@@ -28,6 +28,9 @@
   
   网卡：                英特尔 Wireless-AC 9462
   
+  # OS版本：            10.15.6 
+  
+  
 #  -------最终效果-----
 
   CPU：已睿频
@@ -57,3 +60,10 @@
 显卡：Nvidia GeForce MX250 已屏蔽
 
 指纹：不支持。
+
+
+# 注意事项：
+ 1. OS 安装方式是用Paragon Software/Hard Disk Manager 17 Advanced 硬盘恢复方式进行的（注意一定要有这两个文件 SSDT-NVMe.aml（这个可能需要调整） HackrNVMeFamily.kext，否则硬盘恢复后也是进不去会报错）
+ 2. HDMI 投影 折腾我将近3周， 一直在不断尝试新的显卡驱动和补丁，最终的关键点： HDMI的通道值一定要比内屏通道值隔几个数字（比如我的内屏通道是 8，HDMI的通道值是12，此前一直默认9，就出现投影HDMI后，内屏黑屏，外接显示器是正常）
+ 
+  
