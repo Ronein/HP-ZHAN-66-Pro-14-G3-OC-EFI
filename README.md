@@ -1,0 +1,2 @@
+# HP-ZHAN-66-Pro-14-G3-OC-EFI
+惠普战66 三代 14 EFI文件
