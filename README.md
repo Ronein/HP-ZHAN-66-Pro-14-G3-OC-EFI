@@ -9,9 +9,9 @@
 
 # 特别感谢：
     
-   TKS gxzzzzzzzzz ：https://github.com/gxzzzzzzzzz/HP_zhan66_pro_14_g3     
+   TKS @gxzzzzzzzzz  ：https://github.com/gxzzzzzzzzz/HP_zhan66_pro_14_g3     
    
-   TKS xiaoshimu：https://github.com/xiaoshimu/macos-opencore-hp-zhan66-pro15-g3-i7-10510u
+   TKS @xiaoshimu ：https://github.com/xiaoshimu/macos-opencore-hp-zhan66-pro15-g3-i7-10510u
     
     最终我是基于xiaoshimu 大佬的文件，做的调整。
 
