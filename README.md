@@ -1,6 +1,7 @@
 # HP-ZHAN-66-Pro-14-G3-OC-EFI
 过程折腾2个月，新人从零开始搞的，也从clover到opencore 方式，过程中感谢爬过的远景、黑果小兵blog、黑苹果社区等等。
 特别感谢：
+    
     TKS gxzzzzzzzzz ：https://github.com/gxzzzzzzzzz/HP_zhan66_pro_14_g3     
     TKS xiaoshimu：https://github.com/xiaoshimu/macos-opencore-hp-zhan66-pro15-g3-i7-10510u
     
