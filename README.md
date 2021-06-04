@@ -1,6 +1,12 @@
 # HP-ZHAN-66-Pro-14-G3-OC-EFI
 过程折腾2个月，新人从零开始搞的，也从clover到opencore 方式，过程中感谢爬过的远景、黑果小兵blog、黑苹果社区等等。
 
+## 因我第一次自己创建github，有些内容还不会，如要下载，下载后请处理：
+        1. 请将每个文件夹内的new文件删除；
+        2. 请将kext 文件的zip 解压，或者自己找；
+   我只是想分享自己的记录，顺便共享给同样型号想要折腾的同学，如有问题，请不要人身攻击，网络暴力受不了～～
+
+
 # 特别感谢：
     
    TKS gxzzzzzzzzz ：https://github.com/gxzzzzzzzzz/HP_zhan66_pro_14_g3     
