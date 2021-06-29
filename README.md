@@ -12,7 +12,8 @@
 
 #### 2021-06-22 更换了SN550，全盘新装10.15.7 ，使用了几天，转彩虹现象确实消失了。。花钱买不遭罪啊
 
-
+#### 2021-0629 重新安装BigSur11.4，过程中发现： 笔记本电池的驱动方法是：（ SMCBatteryManager.kext + ECEnabler.kext ）
+要多留意文章：https://github.com/daliansky/OC-little
 
 
 
