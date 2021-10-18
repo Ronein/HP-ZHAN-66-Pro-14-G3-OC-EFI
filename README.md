@@ -1,5 +1,4 @@
 # HP-ZHAN-66-Pro-14-G3-OC-EFI
-现在的黑苹果已经比较成熟了，记得当时14年折腾过半个月，太痛苦放弃了，现在从过，新人从零开始搞的，也从clover到opencore 方式，过程中感谢爬过的远景、黑果小兵blog、黑苹果社区等等。
 
 # 更新日历：
 ## ·2021-10-18 OC 0.7.4 出现触控板不可用（更换过v2c\v2HID的kext版本后，问题依旧，本人已经回退至0.7.3版本）
@@ -42,19 +41,6 @@
 
 ​	11的系统值写 77000000
 
-## 因我第一次自己创建github，有些内容还不会，如要下载，下载后请处理：
-        1. 文件夹内如有.DS_Store 这个文件，可以删除。。 
-   我只是想分享自己的记录，顺便共享给同样型号想要折腾的同学，如有问题，请不要人身攻击，网络暴力受不了～～
-
-
-# 特别感谢：
-
-   TKS @gxzzzzzzzzz  ：https://github.com/gxzzzzzzzzz/HP_zhan66_pro_14_g3     
-
-   TKS @xiaoshimu ：https://github.com/xiaoshimu/macos-opencore-hp-zhan66-pro15-g3-i7-10510u
-    
-   最终我是基于xiaoshimu 大佬的文件，做的调整。
-
 # ----------电脑配置---------------
   电脑型号：            HP ZHAN 66 Pro 14 G3 笔记本电脑
 
@@ -78,7 +64,7 @@
 
   网卡：                英特尔 Wireless-AC 9462
 
-  # OS版本：            10.15.6 
+  # OS版本：            11.6 
 
 
 #  -------最终效果-----
@@ -111,3 +97,12 @@
 
 指纹：不支持。
 
+
+# 特别感谢：
+
+   TKS @gxzzzzzzzzz  ：https://github.com/gxzzzzzzzzz/HP_zhan66_pro_14_g3     
+
+   TKS @xiaoshimu ：https://github.com/xiaoshimu/macos-opencore-hp-zhan66-pro15-g3-i7-10510u
+    
+   我是基于xiaoshimu 大佬的文件，做的调整。
+# PS: 现在的黑苹果已经比较成熟了，记得当时14年折腾过半个月，太痛苦放弃了，现在从过，新人从零开始搞的，也从clover到opencore 方式，过程中感谢爬过的远景、黑果小兵blog、黑苹果社区等等。
